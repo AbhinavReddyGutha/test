@@ -1,1 +1,8 @@
 My name is Abhinav
+
+Git commands:
+1. git push 
+2. git status
+3. git commit
+4. git add
+5. git pull
