@@ -7,3 +7,5 @@ Git commands:
 4. git add
 5. git pull
 --
+GitHub is a place where we can upload our work in a organised fashion. 
+It can be operated to either web editor or using git commands.
