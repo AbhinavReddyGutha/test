@@ -6,3 +6,4 @@ Git commands:
 3. git commit
 4. git add
 5. git pull
+--
